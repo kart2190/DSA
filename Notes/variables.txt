@@ -1,0 +1,9 @@
+Buckets that hold value
+
+Naming conventions -> 
+
+Uppercase or Lower case
+Can use numbers but not the first charcter
+Strongly typed (Types will not be infered autommatically )
+
+**Unassigned variables hold garbage value

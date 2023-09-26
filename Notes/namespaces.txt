@@ -1,0 +1,12 @@
+used to prevent naming redudancies 
+
+to avoid data structure and naming conflicts
+
+
+#include<iostream> --> print ()
+
+#include<opencv> --> print (something, something)
+
+
+shortcut std::cout << "something";
+
