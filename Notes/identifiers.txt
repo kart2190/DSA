@@ -1,0 +1,5 @@
+Identifier derived from the name Identity
+
+Eg: marks = 80 
+-> marks is the idnetifier 
+-> since it holds a value it is called a variable

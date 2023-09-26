@@ -1,0 +1,13 @@
+#include<iostream> 
+
+--> includes the code that exposes functions to read and write among others
+
+Eg: #include<stack> to include a certain data structure
+
+
+#define something = <value>
+
+--> use to define symbolic constants or otherwise called a Macro
+--> All subsequent occurrences of the symbolic constants are replaces by its defined value (its a repalcement text)
+
+Eg: #define PI = 3.14
